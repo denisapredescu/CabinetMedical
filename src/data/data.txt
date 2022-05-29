@@ -1,0 +1,6 @@
+     Patients
+
+1. fpatient1 lpatient1 gender1 21
+2. fpatient2 lpatient2 gender1 23
+3. lpatient3 lpatient3 gender1 51
+4. fpatient4 lpatient4 33 76
